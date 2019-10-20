@@ -1,6 +1,6 @@
 {
   "name": "@leismore/error_handler_error",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "An error handler function for the standard JavaScript Error.",
   "main": "index.js",
   "scripts": {
